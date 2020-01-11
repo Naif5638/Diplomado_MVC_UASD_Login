@@ -45,7 +45,7 @@ namespace Diplomado_MVC_UASD_Login.Controllers
         {
             if (ModelState.IsValid)
             {
-L
+
             }
             return View("Index");
         }
